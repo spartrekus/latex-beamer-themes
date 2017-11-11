@@ -3,10 +3,16 @@ default beamer themes on Unix-like systems
 
 
 
-
+Bergen
 ![img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Bergen.jpg)
+
+Singapore 
 ![img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Singapore.jpg)
+
+Ilmenau
 ![img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Ilmenau.jpg)
+
+EastLansing
 ![img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/EastLansing.jpg)
 ![img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/PaloAlto.jpg)
 ![img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Darmstadt.jpg)
