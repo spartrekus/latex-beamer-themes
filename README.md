@@ -3,10 +3,10 @@ default beamer themes on Unix-like systems
 
 
 
-Bergen
+Bergen:\s
 ![img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Bergen.jpg)
 
-Singapore 
+Singapore:\s\s 
 ![img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Singapore.jpg)
 
 Ilmenau
